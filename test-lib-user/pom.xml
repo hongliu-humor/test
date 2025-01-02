@@ -6,8 +6,8 @@
     <parent>
         <groupId>org.example</groupId>
         <artifactId>test-lib-parent</artifactId>
-        <version>1.0-SNAPSHOT</version>
-        <relativePath>../test-lib-parent/pom.xml</relativePath>
+        <version>2.0</version>
+        <relativePath>..</relativePath>
     </parent>
 
     <artifactId>test-lib-user</artifactId>
